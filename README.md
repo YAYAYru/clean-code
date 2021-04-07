@@ -9,3 +9,5 @@
 - Перевод: Чистая архитектура в Python: пошаговая демонстрация 1-5 частей [Хабр](https://habr.com/ru/post/319126/) [англ](https://www.thedigitalcatonline.com/blog/2016/11/14/clean-architectures-in-python-a-step-by-step-example/) [англ](http://www.pycabook.com/) [GitHub](https://github.com/lgiordani/rentomatic)
 - Clean Architecture глазами Python-разработчика [Хабр](https://habr.com/ru/company/exness/blog/494370/)
 - Чистая архитектура [Хабр](https://habr.com/ru/post/269589/)
+- Разбираемся с Clean Code в Android [Хабр](https://habr.com/ru/post/443662/)
+- Заблуждения Clean Architecture [Хабр](https://habr.com/ru/company/mobileup/blog/335382/)
