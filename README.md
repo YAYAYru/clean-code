@@ -11,3 +11,4 @@
 - Чистая архитектура [Хабр](https://habr.com/ru/post/269589/)
 - Разбираемся с Clean Code в Android [Хабр](https://habr.com/ru/post/443662/)
 - Заблуждения Clean Architecture [Хабр](https://habr.com/ru/company/mobileup/blog/335382/)
+- dataflowkit [GitHub](https://github.com/IcarusSO/dataflowkit)
